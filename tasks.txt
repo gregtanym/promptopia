@@ -6,7 +6,7 @@
 [] Implement View other profiles
 [] Deployment with vercel
     - Need to configure the env variables
-    - Mongodb change network access
+    - Mongodb change network access to allow all IP addresses
     - Update callback url from google console
     - Sometimes if dont see env variable being called, need to redeploy
     - Redeployment would change the url so need to reconfigure in google console
